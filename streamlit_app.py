@@ -43,7 +43,7 @@ COLORS = [
     "#EDC9AF", "#FFD700", "#D2B48C"
 ]
 
-PROJECT_ROOT = Path(__file__).resolve().parent
+PROJECT_ROOT = Path(__file__).resolve().parent / "deployment_data"
 
 # Sidebar configuration
 st.sidebar.markdown("# 🛰️ LULC Classification")

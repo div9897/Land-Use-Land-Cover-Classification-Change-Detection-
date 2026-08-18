@@ -1,7 +1,19 @@
 *.tif
 *.TIF
 *.mp3
-2017/
-2020/
-2024/
-LC09_*/
+
+# Ignore original satellite data only
+/2017/
+/2020/
+/2024/
+
+# Ignore other Landsat raw folder
+/LC09_*/
+
+# Allow optimized deployment data
+!deployment_data/
+!deployment_data/2017/
+!deployment_data/2020/
+!deployment_data/2024/
+!deployment_data/**/*.TIF
+!deployment_data/**/*.tif
