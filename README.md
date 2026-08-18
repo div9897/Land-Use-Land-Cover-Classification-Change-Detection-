@@ -1,5 +1,7 @@
 # 🛰️ Land Use Land Cover (LULC) Classification, Change Detection & Future Prediction
 
+[![🚀 Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge)](https://div9897-land-use-land-cover-classification-streamlit-app-oaj3vy.streamlit.app/)
+
 A Machine Learning and Geospatial Analysis project that performs:
 
 - 🌍 Land Use Land Cover (LULC) Classification
